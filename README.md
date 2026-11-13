@@ -9,8 +9,7 @@ task list, comments
 [до блока Непрерывная интеграция](https://judge.mipt.ru/mipt_cs_on_python3_2015/labs/lab6.html#id18)
 
 ## tasks 
-1. [reinforcement](https://judge.mipt.ru/mipt_cs_on_python3/labs/lab19.html) - игра с тракторами - увы, наш сервер безнадежно сдох , см ссылки в разделе ДЛя любителей reinforcement 
-2. [json, client-server](https://judge.mipt.ru/mipt_cs_on_python3/labs/lab25.html) - web - интерфейсы
+2. [json, client-server](https://judge.mipt.ru/mipt_cs_on_python3/labs/lab25.html) - web - интерфейсы, аналог простого мессенджера
 3. [file system](https://judge.mipt.ru/mipt_cs_on_python3_2015/labs/lab16.html) - дерево файловой системы
 4. [булгахтерия](https://judge.mipt.ru/mipt_cs_on_python3_2015/labs/lab9.html#decimal) - калькулятор для дробей , точный
 5. [matrices](https://judge.mipt.ru/mipt_cs_on_python3_2015/labs/lab13.html) - сложно!!! матричный калькулятор
